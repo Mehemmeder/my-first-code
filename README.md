@@ -6,7 +6,7 @@ I am learning coding and English together.
 ---
 
 ## My English diary
-- [2025-07/snack.md](2025-07/snack.md)
+- [2025-07/snack.md](english-diary/2025-07/snack.md)
 - [2025-07/pork.md](english-diary/2025-07/pork.md)
 
 ---

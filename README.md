@@ -3,7 +3,8 @@ This is my first GitHub repository.
 I am learning coding and English together.
 
 ## 📘 My English Diary
-Each day I add a new word and example sentences.
+[2025-07](english-diary/2025-07)
 
 ### ✅ Today’s word
-[snack](english-diary/snack.md)
+- [snack](english-diary/snack.md)
+- [pork](english-diary/pork.md)

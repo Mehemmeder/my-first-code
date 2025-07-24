@@ -16,7 +16,6 @@ I am learning coding and English together.
 > 📜 *In July 2025, a small HTML file written on a small screen became the first line of a big journey.*
 ---
 
-## Daily Progress
 ## 📅 Daily Progress
 
 - [Day 1: HTML Basics](Day-1.md)

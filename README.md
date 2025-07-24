@@ -1,27 +1,45 @@
-# My first code
+# 🚀 My First Code
 
-This is my first GitHub repository.  
-I am learning coding and English together.
+Merhaba! Ben Mehemmeder.  
+Bu repo, yazılım öğrenme yolculuğumu belgelediğim kişisel bir günlük gibi.  
+Her gün yeni bir şey öğreniyorum ve burada paylaşıyorum! 👨‍💻✨
 
----
-
-## My English diary
-- [2025-07/snack.md](english-diary/2025-07/snack.md)
-- [2025-07/pork.md](english-diary/2025-07/pork.md)
-
----
-
-## My thoughts
-- [my-thoughts.md](english-diary/my-thoughts.md)
-> 📜 *In July 2025, a small HTML file written on a small screen became the first line of a big journey.*
 ---
 
 ## 📅 Daily Progress
 
-- [Day 1: HTML Basics](Day-1.md)
-- [Day 2: Git & Markdown Practice](Day-2.md)
-- [Day 3: C# Variables and Data Types](Day-3.md)
+- ✅ [Day 1: Introduction to Programming](Day-1.md)
+- ✅ [Day 2: Hello World in C#](Day-2.md)
+- ✅ [Day 3: C# Variables and Data Types](Day-3.md)
 
-## 📖 Vocabulary
+---
 
-- [Disgusting](vocabulary/disgusting.md): very unpleasant or sickening
+## 📚 Vocabulary Practice
+
+🧠 Her gün bir kelime, iki örnek cümleyle İngilizce pratiği!
+
+- [disgusting](Vocabulary/disgusting.md)
+
+---
+
+## 📌 How to Use This Repo
+
+Bu proje benim İngilizce ve yazılım pratiğimi günlük olarak belgelediğim bir çalışmadır.  
+Kodları görmek için `Day-X.md` dosyalarını, İngilizce kelimeler için `Vocabulary` klasörünü ziyaret edebilirsin.
+
+---
+
+## 🛣️ Roadmap
+
+- [x] Günlük gelişim takibi sistemi ✅  
+- [ ] Kendi renk paletim ve logo 🎨  
+- [ ] CSS ile mobil uyumlu tema 📱  
+- [ ] İngilizce kelime bölümü için özel tasarım 📘  
+- [ ] Günlük otomatik linkleme sistemi 🔗
+
+---
+
+## 🔗 Live Page
+
+📲 Canlı versiyonuna buradan ulaşabilirsin:  
+👉 https://mehemmeder.github.io/my-first-code/

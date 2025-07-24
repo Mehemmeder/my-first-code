@@ -6,6 +6,16 @@ Her gün yeni bir şey öğreniyorum ve burada paylaşıyorum! 👨‍💻✨
 
 ---
 
+## 🗓️ Progress Calendar
+
+| Day | Date       | Topic                             | Status   |
+|-----|------------|-----------------------------------|----------|
+| 1   | 2025-07-21 | English: snack, pork              | ✅ Done  |
+| 2   | 2025-07-22 | English: two words                | ✅ Done  |
+| 3   | 2025-07-23 | C#: Variables and Data Types      | ✅ Done  |
+| 4   | 2025-07-24 | README düzenleme & Takvim ekleme  | ✅ Done  |
+| 5   | 2025-07-25 | Word of the Day özel tasarımı     | ⏳ Coming |
+
 ## 📅 Daily Progress
 
 - ✅ [Day 1: Introduction to Programming](Day-1.md)

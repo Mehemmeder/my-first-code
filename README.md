@@ -14,3 +14,8 @@ I am learning coding and English together.
 ## My thoughts
 - [my-thoughts.md](english-diary/my-thoughts.md)
 > 📜 *In July 2025, a small HTML file written on a small screen became the first line of a big journey.*
+---
+
+## Daily Progress
+
+> ✅ [Day 3: C# Variables and Data Types](Day-3.md)

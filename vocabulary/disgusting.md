@@ -1,7 +1,19 @@
-# Word of the Day: disgusting
+# Word of the Day: **disgusting**
 
-### Sentence 1:
-The smell in the room was so **disgusting** that I had to leave immediately.
+**Part of speech:** adjective
 
-### Sentence 2:
-He made a **disgusting** comment that offended everyone.
+---
+
+## 📚 Meaning:
+Something that is very unpleasant or makes you feel sick or upset.
+
+---
+
+## 💬 Example Sentences:
+1. This soup tastes disgusting!  
+2. He made a disgusting joke that nobody liked.
+
+---
+
+## 🧠 Notes:
+"Disgusting" is a strong word used to describe something that causes a feeling of intense dislike or revulsion. It can describe taste, smell, behavior, or appearance.

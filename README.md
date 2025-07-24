@@ -6,6 +6,13 @@ Her gün yeni bir şey öğreniyorum ve burada paylaşıyorum! 👨‍💻✨
 
 ---
 
+## 📇 About Me
+
+Merhaba! Ben Mehemmeder, yazılım dünyasına tutkuyla adım atan bir öğrenciyim.  
+Amacım her gün bir adım daha ileri gitmek ve öğrendiklerimi açıkça paylaşmak.  
+Bu repo, hem İngilizcemi geliştirmek hem de yazılım pratiği yapmak için kurduğum kişisel bir yolculuktur.  
+Hayalim, bir gün kendi mobil oyunumu yapmak 🎮🚀
+
 ## 🗓️ Progress Calendar
 
 | Day | Date       | Topic                             | Status   |

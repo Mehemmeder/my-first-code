@@ -17,5 +17,12 @@ I am learning coding and English together.
 ---
 
 ## Daily Progress
+## 📅 Daily Progress
 
-> ✅ [Day 3: C# Variables and Data Types](Day-3.md)
+- [Day 1: HTML Basics](Day-1.md)
+- [Day 2: Git & Markdown Practice](Day-2.md)
+- [Day 3: C# Variables and Data Types](Day-3.md)
+
+## 📖 Vocabulary
+
+- [Disgusting](vocabulary/disgusting.md): very unpleasant or sickening

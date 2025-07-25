@@ -7,7 +7,7 @@
 
 body {
   font-family: var(--font-family);
-  background-color: var(--color-background);
+  background-color: lightblue;
   color: var(--color-primary);
   margin: 0;
   padding: 0 1rem;

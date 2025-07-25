@@ -31,11 +31,11 @@ Hayalim, bir gün kendi mobil oyunumu yapmak 🎮🚀
 
 ---
 
-## 📚 Vocabulary Practice
+## 📘 Vocabulary Practice
 
-🧠 Her gün bir kelime, iki örnek cümleyle İngilizce pratiği!
-
-- [disgusting](Vocabulary/disgusting.md)
+- [disgusting](vocabulary/disgusting.md)
+- [run out of](vocabulary/run-out-of.md)
+- [turn on/off](vocabulary/turn-on-off.md)
 
 ---
 

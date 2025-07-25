@@ -38,6 +38,7 @@ Hayalim, bir gün kendi mobil oyunumu yapmak 🎮🚀
 - [give up](vocabulary/give-up.md)
 - [run out of](vocabulary/run-out-off.md)
 - [look after](vocabulary/look-after.md)
+- [bring up](vocabulary/bring-up.md)
 ---
 
 ## 📌 How to Use This Repo

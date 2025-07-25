@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://app.logomakr.com/8afsda" alt="My First Code Logo" width="200"/>
+</p>
+
+---
+
 # 🚀 My First Code
 
 Merhaba! Ben Mehemmeder.  

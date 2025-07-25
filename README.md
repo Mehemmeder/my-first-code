@@ -34,9 +34,9 @@ Hayalim, bir gün kendi mobil oyunumu yapmak 🎮🚀
 ## 📘 Vocabulary Practice
 
 - [disgusting](vocabulary/disgusting.md)
-- [run out of](vocabulary/run-out-of.md)
 - [turn on/off](vocabulary/turn-on-off.md)
 - [give up](vocabulary/give-up.md)
+- Update README: add link to 'run out of'
 ---
 
 ## 📌 How to Use This Repo
